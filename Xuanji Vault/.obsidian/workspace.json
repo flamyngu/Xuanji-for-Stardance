@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/姬.md",
+                "file": "Characters/必.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "姬"
+              "title": "必"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "d5f83dc85ffe1cbe",
@@ -196,32 +196,32 @@
   },
   "active": "bcec3da24a44820e",
   "lastOpenFiles": [
-    "Characters/始.md",
-    "Characters/妾.md",
-    "Characters/妤.md",
-    "Characters/妙.md",
-    "Characters/妃.md",
-    "Characters/如.md",
-    "Characters/好.md",
-    "Characters/奸.md",
-    "Characters/女.md",
-    "Characters/奮.md",
-    "Characters/奇.md",
-    "Characters/天.md",
-    "Characters/大.md",
-    "Characters/夢.md",
-    "Characters/多.md",
-    "Characters/壯.md",
-    "Characters/士.md",
-    "Characters/墻.md",
-    "Characters/增.md",
-    "Characters/塞.md",
-    "Characters/堆.md",
-    "Characters/堂.md",
-    "Characters/基.md",
-    "Characters/域.md",
-    "Characters/城.md",
-    "Characters/均.md",
+    "Characters/心.md",
+    "Characters/徽.md",
+    "Characters/德.md",
+    "Characters/微.md",
+    "Characters/從.md",
+    "Characters/後.md",
+    "Characters/往.md",
+    "Characters/形.md",
+    "Characters/弦.md",
+    "Characters/廣.md",
+    "Characters/廢.md",
+    "Characters/廂.md",
+    "Characters/庭.md",
+    "Characters/幽.md",
+    "Characters/年.md",
+    "Characters/平.md",
+    "Characters/帷.md",
+    "Characters/已.md",
+    "Characters/差.md",
+    "Characters/巢.md",
+    "Characters/巖.md",
+    "Characters/嵯.md",
+    "Characters/崧.md",
+    "Characters/峻.md",
+    "Characters/峨.md",
+    "Characters/岑.md",
     "Characters"
   ]
 }
