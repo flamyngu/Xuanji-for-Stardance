@@ -31,8 +31,8 @@ Work order = **Unicode codepoint order** (this is what the user's earlier hand-c
 - `/tmp/add_meanings.py` — the working script (regenerate if /tmp was cleared; see "Scripts" below).
 
 ### Current progress
-- **Done: see the line count of `xin-onward-progress.txt` minus 4 header lines** (that file is authoritative; the number below may lag).
-- As of last update: **224 / 317**. Last completed char: **蘭**. Next up in the worklist: `虎 處 虞 虧 …` (verify by reading the worklist after 蘭).
+- **✅ COMPLETE — 317 / 317.** All target characters after 心 have been processed. Last completed char: **龍**. Nothing left in the worklist.
+- (Historical note: `xin-onward-progress.txt` minus 4 header lines is authoritative; it now lists all 317.)
 
 ### Side-task already completed
 The user also asked to **retroactively sync frontmatter** on the characters they'd already hand-refined (≤ 心). Done: all 143 affected files now have `english_meanings:` matching their body list. No action needed there.
